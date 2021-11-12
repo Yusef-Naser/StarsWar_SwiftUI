@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+        "id" : 1 ,
+      "name": "Luke Skywalker",
+      "height": "172",
+      "mass": "77",
+      "hair_color": "blond",
+      "skin_color": "fair",
+      "eye_color": "blue",
+      "birth_year": "19BBY",
+      "gender": "male",
+      "imageUrl": "https://images.hdqwalls.com/download/luke-skywalker-star-wars-vu-320x240.jpg"
+    },
+    {
+        "id" : 2 ,
+      "name": "C-3PO",
+      "height": "167",
+      "mass": "75",
+      "hair_color": "n/a",
+      "skin_color": "gold",
+      "eye_color": "yellow",
+      "birth_year": "112BBY",
+      "gender": "n/a",
+      "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/6/2012/01/star-wars-c3po-r2d2_320.jpg"
+    },
+    {
+        "id" : 3 ,
+      "name": "R2-D2",
+      "height": "96",
+      "mass": "32",
+      "hair_color": "n/a",
+      "skin_color": "white, blue",
+      "eye_color": "red",
+      "birth_year": "33BBY",
+      "gender": "n/a",
+      "imageUrl": "https://www.photo.private-universe.net/images/2021/02/23/07.01.2015_Star-Wars---R2D2-papercraft_02.th.jpg"
+    },
+    {
+        "id" : 4 ,
+      "name": "Darth Vader",
+      "height": "202",
+      "mass": "136",
+      "hair_color": "none",
+      "skin_color": "white",
+      "eye_color": "yellow",
+      "birth_year": "41.9BBY",
+      "gender": "male",
+      "imageUrl": "https://images.hdqwalls.com/download/2020-4k-darth-vader-pz-320x240.jpg"
+    },
+    {
+        "id" : 5 ,
+      "name": "Leia Organa",
+      "height": "150",
+      "mass": "49",
+      "hair_color": "brown",
+      "skin_color": "light",
+      "eye_color": "brown",
+      "birth_year": "19BBY",
+      "gender": "female",
+      "imageUrl": "https://i.pinimg.com/564x/29/e7/44/29e74452966b404bad72a9cd7cd67302.jpg"
+    }
+  ]
+}
